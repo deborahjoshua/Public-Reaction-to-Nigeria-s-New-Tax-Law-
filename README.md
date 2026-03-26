@@ -16,7 +16,7 @@ The goal is to understand how Nigerians perceive the policy before its implement
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Dashboard_overview.png)
 
 ---
 
