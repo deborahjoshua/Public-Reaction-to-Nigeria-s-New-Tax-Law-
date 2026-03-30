@@ -38,10 +38,12 @@ A high-level view of public sentiment, engagement patterns, and key concerns:
 
 ---
 
+
 ## 📁 Project Files
-- `tax_sentiment_dashboard.pbix`
-- `twitter_comments_structured.xlsx`
-- `nigeria-tax-law-dataset.xlsx`
+
+- 📊 [Download Power BI Dashboard](tax_sentiment_dashboard.pbix)
+- 📁 [Download Main Dataset](nigeria-tax-law-dataset.xlsx)
+- 🗂️ [Download Structured Twitter Data](twitter_comments_structured.xlsx)
 
 ---
 
