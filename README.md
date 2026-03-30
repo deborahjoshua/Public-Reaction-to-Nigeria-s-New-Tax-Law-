@@ -16,7 +16,11 @@ The goal is to understand how Nigerians perceive the policy before its implement
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](Dashboard_overview.png)
+A high-level view of public sentiment, engagement patterns, and key concerns:
+
+<p align="center">
+  <img src="nigeria-tax-law-sentiment-dashboard.png" width="800"/>
+</p>
 
 ---
 
