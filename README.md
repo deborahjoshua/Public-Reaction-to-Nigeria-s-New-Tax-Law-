@@ -24,7 +24,7 @@ The goal is to understand how Nigerians perceive the policy before its implement
 - Public sentiment is largely non-supportive, with opposition and neutral views dominating
 - A significant portion of users are seeking clarification, indicating an information gap
 - Opposition is primarily driven by concerns about corruption, economic hardship, and poor public services
-- Facebook and Twitter show the highest levels of engagement, making them key platforms for public discourse
+- Facebook and Youtube show the highest levels of engagement, making them key platforms for public discourse
 
 ---
 
