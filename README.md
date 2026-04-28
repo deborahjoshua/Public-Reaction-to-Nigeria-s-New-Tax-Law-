@@ -33,9 +33,12 @@ A high-level view of public sentiment, engagement patterns, and key concerns:
 ---
 
 ## 🛠 Tools Used
-- Power BI
-- Excel
-
+- Power BI (Data visualization & dashboarding)
+- Power Query (Data cleaning & transformation)
+- DAX (Data modeling & calculations)
+- Excel/CSV (Data source)
+- GitHub (Project hosting)
+- Apify (YouTube, Facebook, LinkedIn, Twitter), Manual Web Scraping
 ---
 
 
